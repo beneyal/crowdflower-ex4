@@ -1,4 +1,8 @@
+# Score
 
+![score](ex4.png)
+
+# Imports
 
 ```python
 import matplotlib.pyplot as plt
